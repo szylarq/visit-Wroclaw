@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Visit Wrocław</string>
+
+    <string name="header0">Attractions guide</string>
+    <string name="header1">Rynek</string>
+    <string name="header2">Ostrów Tumski</string>
+    <string name="header3">University</string>
+    <string name="header4">Centennial Hall</string>
+    <string name="header5">ZOO and Africarium</string>
+    <string name="header6">Stadium</string>
+    <string name="header7">Main railway station</string>
+
+    <string name="description0">Let us show you the best attractions of Wrocław! \n Swipe to see them</string>
+    <string name="description1">Main market square, the heart of the city. It is 213m x 178m large.
+        You can find an old gothic historic City Hall there. </string>
+    <string name="description2">The oldest part of the city. You can find many churches and the cathedral there.</string>
+    <string name="description3">The main building of University of Wrocław was built in 1739 and is
+        the most beautiful example of baroque style in the city.</string>
+    <string name="description4">In the moment of built in 1913 it was a building with the biggest dome
+        in the world. It is also listed as a UNESCO World Heritage Site</string>
+    <string name="description5">ZOO Wrocław is a home to over 10 000 animals of more than 1100
+        species. Its main attraction is Africarium - the oceanarium with Africa theme. </string>
+    <string name="description6">It was built in 2012 for European Football Championship.
+        It has capacity of over 45 000 audience. </string>
+    <string name="description7">It was built in 1857 and some people say it reminds them of a palace
+        rather than railway station, due to its outstanding architecture.</string>
+</resources>
